@@ -1,4 +1,6 @@
 streamlit
-torch
 transformers
+torch
 Pillow
+requests
+python-dotenv
