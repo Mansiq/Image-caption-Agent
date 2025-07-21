@@ -2,7 +2,9 @@
 
 This is a Streamlit-based web app that generates smart image captions using BLIP (Bootstrapped Language-Image Pretraining), and then stylizes them with OpenRouter AI to suit various tones like **funny**, **aesthetic**, **poetic**, etc.
 
-Check Out at: https://image-caption-agent.streamlit.app/
+
+## Live Demo:
+View live on Streamlit [https://image-caption-agent.streamlit.app/]
 
 ---
 
